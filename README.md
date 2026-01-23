@@ -10,6 +10,8 @@ Faço Sistemas de Informação no **CEFET-RJ** e gosto de desenvolver soluções
 <a href="https://github.com/MariaQuaresma">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaQuaresma&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaQuaresma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+</div>
 
 ---
 
