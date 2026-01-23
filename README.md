@@ -15,8 +15,11 @@ Faço Sistemas de Informação no **CEFET-RJ** e gosto de desenvolver soluções
 
 ---
 
-## 🧰 Tecnologias
-
+<details>
+  <summary>
+    <h3>🧰 Tecnologias Favoritas</h3>
+  </summary>
+  
 ### 🧩 Linguagens 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>&nbsp;
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
@@ -41,9 +44,10 @@ Faço Sistemas de Informação no **CEFET-RJ** e gosto de desenvolver soluções
 ### 🖥️ Sistemas Operacionais
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>&nbsp;
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
+</details>
 
 ---
-## 📫 Contatos:
+## 📫 Contatos
 <div>
 <a href="mailto:mariaquaresma2003@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
